@@ -33,6 +33,7 @@ Jazeker. Maak een issue aan, clone naar lokaal of fork it. Op een clean SOLID ma
 NB Deze repo bevat een test bestand met studentennamen in `studenten.txt` (dank aan [listofrandomnames.com/](http://listofrandomnames.com/)). Als jeze versie ook gebruikt in je les en met echte studenten namen vult, zorg dan dat je deze NIET incheckt hier op github!
 
 Makkelijkst is git in te stellen om lokale wijzigingen te negeren, met het volgende commando:
+
 `git update-index --skip-worktree SelectRandomStudent/studenten.txt`
 
 Helaas moet elke developer dit apart doen ([bron](http://blog.stephan-partzsch.de/how-to-ignore-changes-in-tracked-files-with-git/)).
