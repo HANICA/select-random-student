@@ -13,4 +13,4 @@ Het aanwezig zijn in een folder met naam `SelectRandomStudent` is een eis van Pr
 Om nieuwsgierige studenten in staat te stellen de broncode van de applicatie te bekijken. Om te controleren dat deze inderdaad echt eerlijk is. Ook een mooie introductie in open source software, en ook social coding.
 
 ## Kan ik zelf bijdragen of feature requests doen?
-Jazeker. Maak een issue down, clone naar lokaal of fork. Een CONTRIBUTE.md komt wellicht tzt.
+Jazeker. Maak een issue aan, clone naar lokaal of fork it. Een CONTRIBUTE.md komt wellicht tzt.
