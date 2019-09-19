@@ -28,4 +28,11 @@ Om nieuwsgierige studenten in staat te stellen de broncode van de applicatie te 
 
 
 ## Kan ik zelf bijdragen of feature requests doen?
-Jazeker. Maak een issue aan en/of clone de repo naar lokaal of fork it en hack erop los. Op een clean SOLID manier natuurlijk :). Een `CONTRIBUTE.md` komt wellicht tzt.
+Jazeker. Maak een issue aan, clone naar lokaal of fork it. Op een clean SOLID manier natuurlijk :). Een CONTRIBUTE.md komt wellicht tzt.
+
+NB Deze repo bevat een test bestand met studentennamen in `studenten.txt` (dank aan [listofrandomnames.com/](http://listofrandomnames.com/)). Als jeze versie ook gebruikt in je les en met echte studenten namen vult, zorg dan dat je deze NIET incheckt hier op github!
+
+Makkelijkst is git in te stellen om lokale wijzigingen te negeren, met het volgende commando:
+`git update-index --skip-worktree SelectRandomStudent/studenten.txt`
+
+Helaas moet elke developer dit apart doen ([bron](http://blog.stephan-partzsch.de/how-to-ignore-changes-in-tracked-files-with-git/)).
