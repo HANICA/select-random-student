@@ -13,6 +13,8 @@ Het aanwezig zijn in een folder met naam `SelectRandomStudent` is een eis van Pr
 Om nieuwsgierige studenten in staat te stellen de broncode van de applicatie te bekijken. Om te controleren dat deze inderdaad echt eerlijk is. Ook een mooie introductie in open source software, en ook social coding.
 
 ## Features
+<img src="screenshot-lijst-scherm.png" width="400" align="right">
+
 - [x] Selecteer random student
 - [x] Lees de student namen in vanuit een .txt bestand
 - [x] Markeer afwezige studenten en zorg dat ze niet opnieuw geselecteerd worden
@@ -22,6 +24,8 @@ Om nieuwsgierige studenten in staat te stellen de broncode van de applicatie te 
 - [ ] Ondersteun meerdere klassen via bijvoorbeeld meerdere tekstbestanden
 - [ ] Integratie met iSAS voor studentnamen en/of aanwezigheid :smile
 - [ ] ... (zie GitHub issues)
+
+
 
 ## Kan ik zelf bijdragen of feature requests doen?
 Jazeker. Maak een issue aan en/of clone de repo naar lokaal of fork it en hack erop los. Op een clean SOLID manier natuurlijk :). Een `CONTRIBUTE.md` komt wellicht tzt.
