@@ -13,7 +13,8 @@ Volg deze stappen.
 1. Download processing 3.x van de [Processing website](https://processing.org/download/)
 2. Hernoem het bestand `SelectRandomStudent/studenten
 3. Open in Processing de applicatie `SelectRandomStudent` in de gelijknamige subdirectory.
-4. Pas de studenten lijst aan naar de lijst van voornamen van jouw klas (gebruik bij dubbel voorkomen 1e letter van achternaam of ander onderscheiden iets)
+4. Pas de studenten lijst aan naar de lijst van voornamen van jouw klas
+5. Toon te gebruiken knoppen in interface (self explaining)
 
 De applicatie is getest in Processing v3.5.3. In het bestand `studenten.txt` vul je de namen in van je huidige klas. In principe de voornamen, in geval 1 naam vaker voorkomt kort onderscheid; bijvoorbeeld `Henk B.` en `Henk H.`. Het programma kent enkele toetsen voor de bediening en legt zichzelf on-screen uit. NB: Voorkom dat je echte studentnamen incheckt in git, zie opmerking hierover onderaan.
 
@@ -21,7 +22,7 @@ Het aanwezig zijn in een folder met naam `SelectRandomStudent` is een eis van Pr
 
 ## Waarom op GitHub?
 
-Software is pas sowftware als het op GitHub staat, toch? 😉. Een van de voordelen is om nieuwsgierige studenten in staat te stellen de broncode van de applicatie te bekijken. Om te controleren dat deze inderdaad echt eerlijk is. Dit is ook een mooie introductie in open source software, en geeft mogelijkheden ook social coding (zie 'zelf bijdragen' hieronder.
+Software is pas sowftware als het op GitHub staat, toch? 😉. Eén van de voordelen is om nieuwsgierige studenten in staat te stellen de broncode van de applicatie te bekijken. Om bijvoorbeeld te controleren dat deze inderdaad echt eerlijk is of hoe je zoiets nou bouwt. Dit is ook een mooie introductie in open source software, en geeft mogelijkheden ook social coding (zie 'zelf bijdragen' hieronder).
 
 ## Features
 
