@@ -11,7 +11,7 @@ De applicatie is geschreven in [Processing](https://processing.org), een van Jav
 Volg deze stappen.
 
 1. Download processing 3.x van de [Processing website](https://processing.org/download/)
-2. Hernoem het bestand `SelectRandomStudent/studenten
+2. Hernoem het bestand `SelectRandomStudent/studenten`
 3. Open in Processing de applicatie `SelectRandomStudent` in de gelijknamige subdirectory.
 4. Pas de studenten lijst aan naar de lijst van voornamen van jouw klas
 5. Toon te gebruiken knoppen in interface (self explaining)
@@ -42,7 +42,7 @@ Software is pas sowftware als het op GitHub staat, toch? 😉. Eén van de voord
 
 ## Kan ik zelf bijdragen of feature requests doen?
 
-Jazeker. Maak een issue aan, clone naar lokaal of fork it. Op een clean SOLID manier natuurlijk :). Een CONTRIBUTE.md komt wellicht tzt.
+Jazeker. Maak een issue aan, clone naar lokaal of fork it. Op een clean SOLID manier natuurlijk :). Een `CONTRIBUTING.md` komt wellicht tzt.
 
 ## Check NIET studenten namen in; denk aan de AVG
 
